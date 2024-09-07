@@ -1,6 +1,7 @@
-I categorized the products sold into various groups and conducted a detailed data analysis that included RFM Analysis, Cohort Analysis, and Sales Forecasting. Below are the key findings:
+This data analysis is based on a dataset sourced from the UCI archives. I categorized the products sold into various groups and conducted detailed analyses, including RFM Analysis, Cohort Analysis, and Sales Forecasting. 
+Below are the key findings:
 
-Basic Analysis:
+--Basic Analysis:
 Total Revenue (Dec 2010 - Dec 2011): $8,278,519
 Average Order Value (AOV): $392,732
 Top Selling Product: PAPER CRAFT, LITTLE BIRDIE from the stationery category
