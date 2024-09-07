@@ -28,25 +28,25 @@ Key Point: Largest group, at risk of becoming inactive. Regular engagement and m
 
 **Low Churn Risk (RFM Score: 11-15)**:
 Customers: 13,208
-Key Point: High engagement and least likely to churn. Maintain relationship through loyalty programs and personalized marketing.
+Key Point: High engagement and least likely to churn. Maintaining relationship through loyalty programs and personalized marketing will help retaining the customers.
 
 **Key Insights**:
 Customer Distribution: 59% are medium-risk, 39% are low-risk, and 2% are high-risk.
 Action Plan: Re-engage high-risk customers, focus on retaining medium-risk customers, and reward low-risk customers.
 
 ## Cohort Analysis:
-Dec 2010 Cohort: Started with 28,013, dropping to 3,537 by month 13. Retention fluctuated but ended at 16%.
-Jan 2011 Cohort: Began with 12,050, dropping sharply after a peak at 120%.
-Feb-May 2011 Cohorts: Show smaller counts with varying retention rates, peaking at 183% (May) before declining.
-Late 2011 Cohorts: Smaller sizes, with sharp declines in retention.
-Observation: Early cohorts show better retention, while later cohorts see sharp drops, indicating a need for improved retention strategies.
+**Dec 2010 Cohort:** Started with 28,013, dropping to 3,537 by month 13. Retention fluctuated but ended at 16%.
+**Jan 2011 Cohort:** Began with 12,050, dropping sharply after a peak at 120%.
+**Feb-May 2011 Cohorts:** Show smaller counts with varying retention rates, peaking at 183% (May) before declining.
+**Late 2011 Cohorts:** Smaller sizes, with sharp declines in retention.
+**Observation:** Early cohorts show better retention, while later cohorts see sharp drops, indicating a need for improved retention strategies.
 
 ## Revenue and Forecast:
-2011 Actual Revenue: Peaks in September, October, and November with significant fluctuations.
-2012 Forecast:
-Linear: Steady increase from $382K in January to $998K in December.
-Seasonal: Similar upward trend, reaching $1M by December, reflecting historical seasonal peaks.
-Key Trend: Both forecasts predict growth, with seasonality accounting for expected revenue spikes in the last quarter.
+**2011 Actual Revenue:** Peaks in September, October, and November with significant fluctuations.
+**2012 Forecast:**
+**Linear:** Steady increase from $382K in January to $998K in December.
+**Seasonal*:** Similar upward trend, reaching $1M by December, reflecting historical seasonal peaks.
+**Key Trend:** Both forecasts predict growth, with seasonality accounting for expected revenue spikes in the last quarter.
 
 ![Screenshot 2024-09-07 142258](https://github.com/user-attachments/assets/dda12064-d2d9-41ee-bce6-cc108f5434ec)
 
